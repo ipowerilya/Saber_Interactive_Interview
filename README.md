@@ -80,4 +80,4 @@ class ListNode 
 
 * Вариант дерева без инциализации маршрута и без настройки паузы перед первым выстрелом
 
-![Second tree](Task2/BehaviourTree2NoRouteInitAndFirstShotSettings.png)
+    ![Second tree](Task2/BehaviourTree2NoRouteInitAndFirstShotSettings.png)
